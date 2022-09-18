@@ -1,0 +1,23 @@
+{
+  "name": "ajs3_18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitry-Gavrilov/ajs3_18.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmitry-Gavrilov/ajs3_18/issues"
+  },
+  "homepage": "https://github.com/Dmitry-Gavrilov/ajs3_18#readme",
+  "dependencies": {
+    "@dmitry-gavrilov/ajs18_4": "^1.0.0"
+  }
+}
